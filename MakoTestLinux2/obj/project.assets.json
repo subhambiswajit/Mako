@@ -1,0 +1,112 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "MakoCore.OEM.Net.Ubuntu/6.6.2.89": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/jawsmakoIF.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/jawsmakoIF.dll": {}
+        },
+        "build": {
+          "build/MakoCore.OEM.Net.Ubuntu.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/jawsmakoIF_csharp.so": {
+            "assetType": "native",
+            "rid": "linux"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MakoCore.OEM.Net.Ubuntu/6.6.2.89": {
+      "sha512": "2jG+gtAyzZTQ9dplx2KB+43tWEwIsOOuOvliPGLiSrWj+xSBI9kx4A0ao7Af/T4IcuS94UR6b3IKVEvHUbFMCQ==",
+      "type": "package",
+      "path": "makocore.oem.net.ubuntu/6.6.2.89",
+      "files": [
+        ".nupkg.metadata",
+        "build/MakoCore.OEM.Net.Ubuntu.targets",
+        "images/Mako5icon.png",
+        "lib/netstandard2.0/jawsmakoIF.dll",
+        "lib/netstandard2.1/jawsmakoIF.dll",
+        "makocore.oem.net.ubuntu.6.6.2.89.nupkg.sha512",
+        "makocore.oem.net.ubuntu.nuspec",
+        "runtimes/linux/native/jawsmakoIF_csharp.so"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "MakoCore.OEM.Net.Ubuntu >= 6.6.2.89"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\SubhamBal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\MakoTestLinux2.csproj",
+      "projectName": "MakoTestLinux2",
+      "projectPath": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\MakoTestLinux2.csproj",
+      "packagesPath": "C:\\Users\\SubhamBal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SubhamBal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\SubhamBal\\PFI\\CP1Core2021\\OtherPackages": {},
+        "C:\\Users\\SubhamBal\\PFI\\Mako_Linux\\Mako_Linux": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "dependencies": {
+          "MakoCore.OEM.Net.Ubuntu": {
+            "target": "Package",
+            "version": "[6.6.2.89, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

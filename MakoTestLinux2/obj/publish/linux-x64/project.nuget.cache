@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "laCwm4YF/Xp8EmfgXmiP1bjaVYxWrr5blZo70UvTovUxe0ok5dWee8vWioe0aEA15D6yQvw3uD5jmUtYMo1iAQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\MakoTestLinux2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.linux-x64. No packages exist with this id in source(s): Mako source, Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.NETCore.App.Host.linux-x64",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

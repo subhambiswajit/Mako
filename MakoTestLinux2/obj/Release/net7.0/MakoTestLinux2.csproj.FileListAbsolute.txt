@@ -1,0 +1,15 @@
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\bin\Release\net7.0\MakoTestLinux2.exe
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\bin\Release\net7.0\MakoTestLinux2.deps.json
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\bin\Release\net7.0\MakoTestLinux2.runtimeconfig.json
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\bin\Release\net7.0\MakoTestLinux2.dll
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\bin\Release\net7.0\MakoTestLinux2.pdb
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.csproj.AssemblyReference.cache
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.AssemblyInfoInputs.cache
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.AssemblyInfo.cs
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.csproj.CoreCompileInputs.cache
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.dll
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\refint\MakoTestLinux2.dll
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.pdb
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\MakoTestLinux2.genruntimeconfig.cache
+C:\Users\SubhamBal\source\repos\MakoTestLinux2\MakoTestLinux2\obj\Release\net7.0\ref\MakoTestLinux2.dll

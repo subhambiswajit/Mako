@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MakoTestLinux2/1.0.0": {
+        "dependencies": {
+          "MakoCore.OEM.Net.Ubuntu": "6.6.2.89"
+        },
+        "runtime": {
+          "MakoTestLinux2.dll": {}
+        }
+      },
+      "MakoCore.OEM.Net.Ubuntu/6.6.2.89": {
+        "runtime": {
+          "lib/netstandard2.1/jawsmakoIF.dll": {
+            "assemblyVersion": "6.6.2.89",
+            "fileVersion": "6.6.2.89"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/linux/native/jawsmakoIF_csharp.so": {
+            "rid": "linux",
+            "assetType": "native",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MakoTestLinux2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MakoCore.OEM.Net.Ubuntu/6.6.2.89": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2jG+gtAyzZTQ9dplx2KB+43tWEwIsOOuOvliPGLiSrWj+xSBI9kx4A0ao7Af/T4IcuS94UR6b3IKVEvHUbFMCQ==",
+      "path": "makocore.oem.net.ubuntu/6.6.2.89",
+      "hashPath": "makocore.oem.net.ubuntu.6.6.2.89.nupkg.sha512"
+    }
+  }
+}

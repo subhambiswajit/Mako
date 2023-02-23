@@ -1,0 +1,92 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {},
+    "net7.0/linux-x64": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\SubhamBal\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\MakoTestLinux2.csproj",
+      "projectName": "MakoTestLinux2",
+      "projectPath": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\MakoTestLinux2.csproj",
+      "packagesPath": "C:\\Users\\SubhamBal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\obj\\publish\\linux-x64\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\SubhamBal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\SubhamBal\\PFI\\CP1Core2021\\OtherPackages": {},
+        "C:\\Users\\SubhamBal\\PFI\\Mako_Linux\\Mako_Linux": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.linux-x64",
+            "version": "[7.0.2, 7.0.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "linux-x64": {
+        "#import": []
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package Microsoft.NETCore.App.Host.linux-x64. No packages exist with this id in source(s): Mako source, Microsoft Visual Studio Offline Packages, Package source",
+      "libraryId": "Microsoft.NETCore.App.Host.linux-x64",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

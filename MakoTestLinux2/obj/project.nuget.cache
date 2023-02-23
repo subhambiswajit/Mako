@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ocsUL8+BA5GtrfgasxS5seVwh58JnpqAZB52vgMX+JC4LGIiISHnpW6bAsnfv0Y0/fSgGwzoQFov073+24735w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SubhamBal\\source\\repos\\MakoTestLinux2\\MakoTestLinux2\\MakoTestLinux2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SubhamBal\\.nuget\\packages\\makocore.oem.net.ubuntu\\6.6.2.89\\makocore.oem.net.ubuntu.6.6.2.89.nupkg.sha512"
+  ],
+  "logs": []
+}
